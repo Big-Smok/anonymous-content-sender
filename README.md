@@ -10,4 +10,7 @@ pip install -r requirements.txt
 ```
 
 **Then run** ```python anonymous_content_sender.py```
-**Note: Enter your token at line 2**
+
+<b>
+Note: Enter your token at line 2
+</b>
