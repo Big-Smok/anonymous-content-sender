@@ -15,3 +15,7 @@ pip install -r requirements.txt
 <b>
 Note: Enter your token at line 2
 </b>
+<br>
+<br>
+<br>
+<b>Join my Telegram channel</b> <a href=https://t.me/Kaero7>Kaero7</a>
