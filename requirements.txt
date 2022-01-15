@@ -1,0 +1,3 @@
+json
+os
+pyTelegramBotAPI==3.7.6
