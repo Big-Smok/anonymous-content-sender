@@ -9,5 +9,5 @@ git clone https://github.com/Big-Smok/anonymous-content-sender
 pip install -r requirements.txt
 ```
 
-**Then run ```python anonymous_content_sender.py```
+**Then run** ```python anonymous_content_sender.py```
 **Note: Enter your token at line 2**
